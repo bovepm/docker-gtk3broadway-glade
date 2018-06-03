@@ -5,7 +5,6 @@ A Docker container to run GTK+ Glade UI Designer in a Web Browser using GDK Back
 ## Motivation
 
 * Foster GTK+ adoption
-* Minimal image size (~230mb)
 * Using latest GTK+ Version 3.22.30 by using Ubuntu Bionic (stable) or Cosmic (dev)
 * GTK+ Broadway's limitation of one user per Broadway daemon can be overcome by starting _n_ containers, thus making Broadway accessible in a multi user environment
 
